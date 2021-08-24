@@ -28,7 +28,7 @@
 
 - 결과화면
 <p align="center">
-<img src="https://user-images.githubusercontent.com/51938331/130613493-7ae54a87-4a5b-4072-bc17-332aa373fdfa.png" width="700" height="300">
+<img src="https://user-images.githubusercontent.com/51938331/130613493-7ae54a87-4a5b-4072-bc17-332aa373fdfa.png" width="700" height="200">
 </p>
 
 ## 개발환경
