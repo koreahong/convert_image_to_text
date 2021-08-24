@@ -3,8 +3,8 @@
 
 ## 사용방법
 
-1. 'python manage.py runserver' 명령어를 입력하면 나오는 메인페이지입니다.  
-- ![기본화면](https://user-images.githubusercontent.com/51938331/130610903-549c4c42-14ac-4437-aa55-e6ce2d8d37ea.png){: width="100" height="100"}  
+1. 'python manage.py runserver' 명령어를 입력하면 나오는 메인페이지입니다.   
+- <img src="https://user-images.githubusercontent.com/51938331/130610903-549c4c42-14ac-4437-aa55-e6ce2d8d37ea.png" width="200" height="200"/>
 
 2. Ctrl + Alt + S 캡쳐 혹은 사진파일을 복사  
 - ![캡쳐하기](https://user-images.githubusercontent.com/51938331/130611838-f4a9f734-93b4-404a-b4e4-13bcecf5ed94.png)  
