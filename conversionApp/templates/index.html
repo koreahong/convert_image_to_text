@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="kor">
+<head>
+    <meta charset="UTF-8">
+    <title>TIT</title>
+</head>
+<body>
+사진 입력 란
+<div class="form-area">
+    <form action="" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+<!--        {{ form.as_p}}-->
+
+
+        <input type="file" name="image" id="document_attachment_doc" /><br>
+        <input id="submit" type="submit" value="변환하기"  />
+
+        <br>
+        <br>
+    </form>
+</div>
+결과:
+<div class="result-area">
+{{msg}}
+</div>
+<script>
+const fileInput = document.getElementById("document_attachment_doc");
+window.addEventListener('paste', e => {
+  fileInput.files = e.clipboardData.files;
+});
+</script>
+<style>
+.form-area{
+    /*width: 800px;*/
+    /*height: 800px;*/
+    /*border: 1px solid black;*/
+}
+
+</style>
+</body>
+</html>
+
+
+
