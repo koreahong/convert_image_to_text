@@ -19,11 +19,11 @@
 </p>
 
 4. '변환하기' 버튼을 누르면 아래에 결과화면이 뜹니다  
-4-1. 변환하고 싶은 이미지  
+  4-1. 변환하고 싶은 이미지  
 <p align="center">
 <img src="https://user-images.githubusercontent.com/51938331/130613251-e2afe96e-6aae-4f29-8077-792a81ba93ac.png" width="500" height="300">
 </p>
-4-2. 결과화면
+  4-2. 결과화면
 <p align="center">
 <img src="https://user-images.githubusercontent.com/51938331/130613493-7ae54a87-4a5b-4072-bc17-332aa373fdfa.png" width="700" height="300">
 </p>
