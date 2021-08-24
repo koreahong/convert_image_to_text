@@ -7,17 +7,26 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/51938331/130610903-549c4c42-14ac-4437-aa55-e6ce2d8d37ea.png" width="300" height="200">
 </p>
+
 2. Ctrl + Alt + S 캡쳐 혹은 사진파일을 복사  
-- ![캡쳐하기](https://user-images.githubusercontent.com/51938331/130611838-f4a9f734-93b4-404a-b4e4-13bcecf5ed94.png)  
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51938331/130611838-f4a9f734-93b4-404a-b4e4-13bcecf5ed94.png" width="300" height="200">
+</p>
 
 3. 화면에서 단축키 Ctrl + V 혹은 업로드로 사진파일을 첨부 
-- ![페이지에사진첨부](https://user-images.githubusercontent.com/51938331/130612263-ca0e1809-792e-4204-946f-edfef76d95a0.png)  
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51938331/130612263-ca0e1809-792e-4204-946f-edfef76d95a0.png" width="300" height="200">
+</p>
 
 4. '변환하기' 버튼을 누르면 아래에 결과화면이 뜹니다  
 4-1. 변환하고 싶은 이미지  
-- ![이미지](https://user-images.githubusercontent.com/51938331/130613251-e2afe96e-6aae-4f29-8077-792a81ba93ac.png)  
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51938331/130613251-e2afe96e-6aae-4f29-8077-792a81ba93ac.png" width="400" height="200">
+</p>
 4-2. 결과화면
-- ![결과화면](https://user-images.githubusercontent.com/51938331/130613493-7ae54a87-4a5b-4072-bc17-332aa373fdfa.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51938331/130613493-7ae54a87-4a5b-4072-bc17-332aa373fdfa.png" width="400" height="200">
+</p>
 
 ## 개발환경
 - pycharm
