@@ -1,5 +1,11 @@
 # 이미지를 텍스트로 변환하기
-- 전에 올렸던 파일에 오류가 발견되어서 재업로드 했습니다
+
+목적 : 웹페이지에서 텍스트이미지 사진을 올려 텍스트로 변환해주는 코드입니다.
+
+## 개발환경
+- pycharm
+- django
+- google vision
 
 ## 사용방법
 
@@ -31,13 +37,8 @@
 <img src="https://user-images.githubusercontent.com/51938331/130613493-7ae54a87-4a5b-4072-bc17-332aa373fdfa.png" width="700" height="200">
 </p>
 
-## 개발환경
-- pycharm
-- django
-- google vision
-
 # Google API KEY 생성방법
-[사이트참고](https://coding-factory.tistory.com/47)
+[사이트참고](https://coding-factory.tistory.com/47)  
 1.구글클라우드 플랫폼 들어가기  
 2.구글아이디로 결제할 수 없다면 카드등록하기  
 3.API 및 서비스 들어가기  
