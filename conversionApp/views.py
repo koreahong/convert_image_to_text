@@ -9,5 +9,5 @@ def index(request):
         return render(request, 'index.html', {'msg':'need to upload image'})
 
     elif request.method == "POST":
-        res = googleAPI.orc_kor_eng(request.FILES['image'].file)
+        res = googleAPI.convert_image(request.FILES['image'].file)
         return render(request,'index.html',{'msg': res})
